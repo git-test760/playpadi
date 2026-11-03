@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PLAYPADI Frontend — Split Starter
 
 This is a structural split of the supplied HTML preview. Existing page markup and inline logic were retained; the embedded CSS and JavaScript were moved into separate files.
@@ -16,3 +17,7 @@ Open `index.html` in a browser, or use VS Code with the Live Server extension an
 
 ## Important
 This is not yet a production/backend integration. Existing sample content and behaviours remain as supplied. Scores, balances and tickets must be treated as demo data until connected to verified APIs. The original pages were kept separate; shared components and reusable modules should be introduced in a later controlled refactor after visual regression checks.
+=======
+# playpadi
+Project: Livescore, Whot, Prediction_Tennis_Basketball_Double-Chance_Draw-No-Bet
+>>>>>>> d97f97ba5d9b95ce8dd62c61402758137a621792
