@@ -1,0 +1,115 @@
+{
+  "Brand": [
+    {
+      "name": "PLAYPADI red",
+      "hex": "#E11D2E",
+      "use": "Sport button, Register, LIVE tags, accents"
+    },
+    {
+      "name": "Logo red",
+      "hex": "#FF0010",
+      "use": "Red in the PLAYPADI logo"
+    },
+    {
+      "name": "Deep red",
+      "hex": "#BB0914",
+      "use": "Shaded red in the logo"
+    },
+    {
+      "name": "Action green",
+      "hex": "#16A34A",
+      "use": "Main buttons, odds chips"
+    },
+    {
+      "name": "Lime green",
+      "hex": "#4ADE80",
+      "use": "Links, View All"
+    },
+    {
+      "name": "Gold",
+      "hex": "#F5B027",
+      "use": "Stars, prize amounts, HOT tag"
+    }
+  ],
+  "Dark panels": [
+    {
+      "name": "Navy background",
+      "hex": "#0A1424",
+      "use": "Header, footer, page chrome"
+    },
+    {
+      "name": "Panel navy",
+      "hex": "#0D1B30",
+      "use": "Cards on dark"
+    },
+    {
+      "name": "Lighter navy",
+      "hex": "#12274A",
+      "use": "Icon circles, buttons"
+    },
+    {
+      "name": "Border line",
+      "hex": "#1C3252",
+      "use": "Borders and dividers"
+    },
+    {
+      "name": "Muted text",
+      "hex": "#8FA3BD",
+      "use": "Secondary text on dark"
+    },
+    {
+      "name": "Main text",
+      "hex": "#EEF3FA",
+      "use": "Text on dark"
+    }
+  ],
+  "Light areas": [
+    {
+      "name": "Page background",
+      "hex": "#E8EDF4",
+      "use": "Page background"
+    },
+    {
+      "name": "Match list background",
+      "hex": "#F3F6FB",
+      "use": "Live match lists"
+    },
+    {
+      "name": "League header strip",
+      "hex": "#E3E9F3",
+      "use": "League headers"
+    },
+    {
+      "name": "Odds green (light rows)",
+      "hex": "#1FA95B",
+      "use": "Odds and probability chips"
+    },
+    {
+      "name": "Muted text (light)",
+      "hex": "#6B7C93",
+      "use": "Secondary text on light"
+    },
+    {
+      "name": "Dark text (light)",
+      "hex": "#0D1B30",
+      "use": "Text on light"
+    }
+  ],
+  "Alàsi logo": [
+    {
+      "name": "Alàsi dark green",
+      "hex": "#095D2D",
+      "use": "Alàsi logo"
+    },
+    {
+      "name": "Alàsi mid green",
+      "hex": "#13862F",
+      "use": "Alàsi logo"
+    },
+    {
+      "name": "Alàsi red",
+      "hex": "#E00504",
+      "use": "Alàsi logo"
+    }
+  ]
+}

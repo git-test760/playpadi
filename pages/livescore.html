@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PLAYPADI Livescore</title>
+<link rel="stylesheet" href="../assets/css/livescore.css">
+
+</head>
+<body>
+<header id="hd">
+  <div class="topbar"><div class="container bar">
+    <button class="burger" aria-label="Menu" aria-expanded="false" aria-controls="mm"><span></span><span></span><span></span></button><a class="brand" href="#" aria-label="PLAYPADI home"><i class="full"></i><i class="icon"></i></a>
+    <nav class="menu" id="mm" aria-label="Main"><div class="m-acts"><button class="btn top-btn out">Login</button><button class="btn top-btn red">Register</button></div><a class="on" href="#">Sports</a><a href="#live">Livescore</a><a href="#">Predictions</a><a href="#">SureBet</a><a href="#whot">WHOT</a><a href="#">SportNews</a><a class="appl" href="#">App<b class="tagh">HOT</b></a><div class="m-sports"><b>Sports</b><a href="#">🏠 Home</a><a href="#">⚽ Football<em>12</em></a><a href="#">🏀 Basketball<em>4</em></a><a href="#">🎾 Tennis<em>3</em></a></div></nav>
+    <div class="acts"><button class="btn top-btn out">Login</button><button class="btn top-btn red">Register</button></div>
+  </div></div>
+  <div class="subbar"><div class="container bar sub-grid"><span></span>
+    <nav class="sports" aria-label="Sports"><a class="on" href="#" aria-current="page"><i>🏠</i>Home</a><a href="#"><i>⚽</i>Football<em>12</em></a><a href="#"><i>🏀</i>Basketball<em>4</em></a><a href="#"><i>🎾</i>Tennis<em>3</em></a><span class="ink"></span></nav>
+    <label class="search" title="Search">🔍<input placeholder="Search teams, leagues, matches…" aria-label="Search"></label></div></div>
+</header>
+
+<main class="body">
+  <aside class="col lft">
+    <div class="box li b-comps"><h3>🏆 Popular Competitions <a href="#">View All</a></h3><div id="comps"></div></div>
+
+    <div class="box li b-quick"><h3>🔗 Quick Links</h3><div id="quick"></div></div>
+    
+    <div class="box li b-fav"><h3>⭐ My Favourites <a href="#">Manage</a></h3><div id="favs"></div></div>
+    
+    <div class="box promo"><div class="logo"></div><p>YOUR GAME. YOUR PEOPLE.<br>YOUR REWARDS.</p><button class="btn red">Join Now →</button></div>
+  
+  
+  </aside>
+  <section class="col ctr">
+    <div class="car" id="car" role="region" aria-roledescription="carousel" aria-label="Featured promotions">
+      <div class="slide on" style="--img:var(--s1);--r:2.588"><div class="fit" role="img" aria-label="Play. Predict. Win big. Live scores, expert predictions, SureBet tips, WHOT tournaments and more."><a class="hot" href="#live" aria-label="Explore now"></a></div></div>
+      <div class="slide" style="--img:var(--s2);--r:3.66"><div class="fit" role="img" aria-label="PLAYPADI. Your game. Your people. Your rewards."></div></div>
+      <button class="nav prev" aria-label="Previous slide">‹</button><button class="nav next" aria-label="Next slide">›</button><div class="dots"></div></div>
+    <div class="tiles" id="tiles"></div>
+    <div class="live" id="live"><h3><span class="tag">● LIVE</span> Live Matches <a href="#">View All →</a></h3>
+      <div class="tabs"><span class="on">All</span><span>Football</span><span>Basketball</span><span>Tennis</span><span>Hockey</span><span>Esports</span></div><div id="matches"></div></div>
+    <div class="two">
+      <div class="box"><h3>🔥 Featured Predictions <a href="#">View All</a></h3>
+        <div class="row">Man City vs Arsenal<span class="odd">1.72</span><span class="pct">67%</span></div>
+        <div class="row">Real Madrid vs Barcelona<span class="odd">1.68</span><span class="pct">83%</span></div>
+        <div class="row">Inter vs AC Milan<span class="odd">8.80</span><span class="pct">80%</span></div></div>
+      <div class="box"><h3>🎟 SureBet Tickets <a href="#">View All</a></h3>
+        <div class="tk"><b>Ticket #2847</b> <small>12-Jun-2026, 14:32</small>
+          <div><span>✔ Man City vs Arsenal</span><span>1.65</span></div><div><span>✔ Real Madrid vs Barcelona</span><span>1.72</span></div><div><span>✔ Inter vs AC Milan</span><span>1.88</span></div><div><b>Total Odds</b><b>5.34</b></div></div>
+        <div class="won">Won ₦532,000</div></div>
+    </div>
+    <div class="box whot" id="whot"><div class="prize">PLAY · COMPETE · WIN<b>₦2,500,000</b>Total Prize Pool</div><div class="wj"><h3>🃏 PLAYPADI WHOT</h3><p>Join the WHOT tournaments, compete with other players and win from the prize pool.</p><div class="wb"><button class="btn red">Join Tournament →</button><a class="lnk" href="#">View Leaderboard</a></div></div>
+      <div class="lb"><div><span>Rank · Player</span><span>Points</span></div><div><span>1 · 0803***4821</span><span>2,500 coins</span></div><div><span>2 · 0706***1934</span><span>1,500 coins</span></div><div><span>3 · 0812***6270</span><span>750 coins</span></div></div>
+      </div>
+    <div class="loyal"><div><b>EARN YOUR LOYALTY REWARDS</b><small>Be regular and let your profile be part of the jackpot winners.</small></div><button class="btn red">Join Now →</button></div>
+    <div class="box b-tours"><h3>🏅 Popular Tournaments</h3><div class="tours" id="tours"></div></div>
+  
+  </section>
+  <aside class="col rgt">
+    <div class="box b-reg"><h3>👤 New User? Register Here</h3><input class="field" placeholder="Enter your number"><input class="field" placeholder="Enter your password"><button class="btn">Create Account</button></div>
+    
+    <div class="box slip"><div class="hd">🧾 Betslip</div><div class="bd"><b style="display:block;text-align:left;font-size:14px">Ticket</b><div class="em">📋<br><b>No selections yet</b><small>Add events to your ticket to get started.</small></div><button class="btn" style="padding:11px">Log In to Bet</button></div></div>
+    
+    <div class="box b-news"><h3>🎯 Top Events <a href="#">View All</a></h3><div id="news"></div></div>
+    <div class="box b-fx"><h3>📅 Upcoming Fixtures <a href="#">View All</a></h3><div id="fx"></div></div>
+    <div class="box b-win"><h3>🏆 Recent Jackpot Winners <a href="#">View All</a></h3><div id="win"></div></div>
+  </aside>
+</main>
+
+<footer><div class="container">
+  <div class="fg"><div><div class="logo"></div></div>
+    <div><h4>Quick Links</h4><a href="#">About Us</a><a href="#">Terms &amp; Conditions</a><a href="#">Responsible Gaming</a><a href="#">Privacy Policy</a><a href="#">Help &amp; Support</a></div>
+    <div><h4>Sports</h4><a href="#">Football</a><a href="#">Basketball</a><a href="#">Tennis</a><a href="#">Hockey</a><a href="#">Volleyball</a><a href="#">Esports</a></div>
+    <div><h4>My Account</h4><a href="#">Login</a><a href="#">Register</a><a href="#">My Bets</a><a href="#">Bet History</a><a href="#">Settings</a></div>
+    <div><h4>Contact Us</h4><a href="#">✉ support@playpadi.com</a><a href="#">📞 +234 708 123 4567</a><a href="#">📍 Lagos, Nigeria</a></div></div>
+  <div class="legal"><span><b class="age">18+</b>Play Responsibly. 18+ only. Gambling can be addictive.</span><span class="pay"><span>VISA</span><span style="color:var(--gold)">●●</span><span>Verve</span><span style="color:#5b9bff">PayPal</span></span></div>
+</div></footer>
+
+<script src="../assets/js/livescore.js" defer></script>
+</body>
+</html>

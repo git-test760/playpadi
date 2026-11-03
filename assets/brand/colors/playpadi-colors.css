@@ -1,0 +1,27 @@
+:root{
+  /* Brand */
+  --playpadi-red:#E11D2E;
+  --logo-red:#FF0010;
+  --deep-red:#BB0914;
+  --action-green:#16A34A;
+  --lime-green:#4ADE80;
+  --gold:#F5B027;
+  /* Dark panels */
+  --navy-background:#0A1424;
+  --panel-navy:#0D1B30;
+  --lighter-navy:#12274A;
+  --border-line:#1C3252;
+  --muted-text:#8FA3BD;
+  --main-text:#EEF3FA;
+  /* Light areas */
+  --page-background:#E8EDF4;
+  --match-list-background:#F3F6FB;
+  --league-header-strip:#E3E9F3;
+  --odds-green-light-rows:#1FA95B;
+  --muted-text-light:#6B7C93;
+  --dark-text-light:#0D1B30;
+  /* Alàsi logo */
+  --alasi-dark-green:#095D2D;
+  --alasi-mid-green:#13862F;
+  --alasi-red:#E00504;
+}
