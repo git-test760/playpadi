@@ -16,7 +16,7 @@
 Use this target structure. If the existing project has a different structure, inspect it first and propose a migration rather than blindly overwriting files.
 
 ```text
-matchbeacon/
+playpadi/
 ├── apps/
 │   ├── web/
 │   │   ├── pages/
