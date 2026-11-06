@@ -1,12 +1,19 @@
-# PLAYPADI AI TEAM & RESPONSIBILITY REGISTER
+# MatchBeacon AI TEAM & RESPONSIBILITY REGISTER
 
 **Version:** 1.0  
 **Date:** 3 November 2026  
 **Project principle:** Deploy the frontend first; build the backend in parallel and connect modules progressively.
 
+## Brand direction
+
+- App name: **MatchBeacon** (use this exact spelling and capitalization in user-facing content).
+- Primary dark brand colour: `#0d1b30`.
+- Preserve existing accent colours unless separately approved.
+- Existing repository paths, filenames and the GitHub repository name are not automatically renamed by this app rebrand.
+
 ## 1. Product scope
 
-PLAYPADI is a Nigerian sports platform for football, basketball and tennis.
+MatchBeacon is a Nigerian sports platform for football, basketball and tennis.
 
 **Tagline:** Your Game. Your People. Your Rewards.
 
@@ -61,7 +68,7 @@ These are product responsibilities, not necessarily separate AI accounts at the 
 
 ### Important provider distinction
 
-SportScore is a possible sports-data source, not the owner of every PLAYPADI feature. A sports-data provider may supply fixtures, scores, results and competitions, depending on its product and licence. Predictions, SureBet tickets and SportNews still need PLAYPADI content rules, editorial/admin tools and their own display logic.
+SportScore is a possible sports-data source, not the owner of every MatchBeacon feature. A sports-data provider may supply fixtures, scores, results and competitions, depending on its product and licence. Predictions, SureBet tickets and SportNews still need MatchBeacon content rules, editorial/admin tools and their own display logic.
 
 Do not assume that free API access includes commercial website display, redistribution, attribution rights, caching rights or betting use. Record the provider's written permission and exact terms before production use. Betting/odds rights require separate confirmation.
 
@@ -81,7 +88,7 @@ A new AI account must receive the current project brief, this register, the deve
 
 ### AI 1 — HTML / page structure
 1. Inspect the current frontend before editing.
-2. Preserve the approved PLAYPADI look and existing content hierarchy.
+2. Preserve the approved MatchBeacon look and existing content hierarchy.
 3. Split the single-page markup into reusable page files/partials.
 4. Build the missing page shells: Predictions, SureBet, WHOT Tournament, SportNews, Loyalty and App.
 5. Use semantic HTML, accessible labels and consistent shared navigation/footer.
