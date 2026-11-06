@@ -5,7 +5,14 @@
 
 ## Mission
 
-Audit and improve the existing visual system without changing the approved PLAYPADI brand or redesigning the current website without approval.
+Audit and improve the existing visual system without changing the approved MatchBeacon brand or redesigning the current website without approval.
+
+## Approved brand tokens
+
+- App name: **MatchBeacon**.
+- Primary dark brand background: `#0d1b30`.
+- Use the shared brand palette as the source of truth; do not reintroduce the previous `#0A1424` background.
+- Preserve existing accent colours unless the project owner approves a separate palette change.
 
 ## First assignment
 
@@ -25,7 +32,7 @@ Audit and improve the existing visual system without changing the approved PLAYP
 
 ## Do not
 
-- Replace the brand palette or typography without owner approval.
+- Do not change the approved MatchBeacon palette or typography without owner approval.
 - perform a wholesale CSS rewrite before documenting current dependencies.
 - Remove existing styles simply because they appear duplicated; verify their use first.
 - introduce a CSS framework or build system without approval.
