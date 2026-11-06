@@ -1,10 +1,16 @@
-# PLAYPADI — START HERE
+# MatchBeacon — START HERE
 
-This pack contains the initial team structure and shared rules for the PLAYPADI build.
+This pack contains the initial team structure and shared rules for the MatchBeacon build.
 
 ## Files
-- `PLAYPADI_AI_TEAM.md` — responsibilities for the first four AI accounts and expandable specialist roles.
-- `PLAYPADI_DEVELOPMENT_CONTRACT.md` — shared GitHub, branch, code, API, testing and release rules.
+- `MatchBeacon_AI_TEAM.md` — responsibilities for the first four AI accounts and expandable specialist roles.
+- `MatchBeacon_DEVELOPMENT_CONTRACT.md` — shared GitHub, branch, code, API, testing and release rules.
+
+## Current brand
+
+- App name: **MatchBeacon**.
+- Primary dark brand colour: `#0d1b30`.
+- Keep existing repository and file paths until a separate migration is approved.
 
 ## Immediate setup order
 1. Create one private GitHub repository named `playpadi`.
