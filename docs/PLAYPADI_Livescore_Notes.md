@@ -43,7 +43,7 @@ Won ₦532,000
 
 PLAY · COMPETE · WIN**₦2,500,000**Total Prize Pool
 
-### 🃏 PLAYPADI WHOT
+### 🃏 MatchBeacon WHOT
 
 Join the WHOT tournaments, compete with other players and win from the prize pool.
 
@@ -90,6 +90,6 @@ Rank · PlayerPoints
 
 #### Contact Us
 
-[✉ support@playpadi.com](#)[📞 +234 708 123 4567](#)[📍 Lagos, Nigeria](#)
+[✉ support@matchbeacon.com](#)[📞 +234 708 123 4567](#)[📍 Lagos, Nigeria](#)
 
 **18+**Play Responsibly. 18+ only. Gambling can be addictive.VISA●●VervePayPal
