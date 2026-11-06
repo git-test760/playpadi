@@ -1,23 +1,42 @@
-<<<<<<< HEAD
-# PLAYPADI Frontend — Split Starter
+# MatchBeacon — Sports Platform
 
-This is a structural split of the supplied HTML preview. Existing page markup and inline logic were retained; the embedded CSS and JavaScript were moved into separate files.
+MatchBeacon is a sports platform frontend for football, basketball and tennis, with planned modules for Livescore, Predictions, SureBet, SportNews, WHOT, Loyalty and user accounts.
 
-## Pages
-- `index.html` — supplied Alasi landing page
-- `pages/livescore.html` — supplied Livescore page
+**Brand name:** MatchBeacon  
+**Primary dark brand colour:** `#0d1b30`  
+**Product principle:** Deploy the frontend first while backend services are developed and connected in parallel.
 
-## Assets
+## Current frontend
+
+- `index.html` — homepage
+- `pages/livescore.html` — Livescore page
 - `assets/css/` — page stylesheets
-- `assets/js/` — page scripts
-- `assets/brand/` — supplied logos and palette assets
+- `assets/js/` — browser-side behaviour and demo fixtures
+- `assets/brand/` — logo and colour assets
+- `docs/` — product, team and development guidance
+
+HTML, CSS and JavaScript are kept separate. Preserve this separation when extending the frontend.
 
 ## Run locally
-Open `index.html` in a browser, or use VS Code with the Live Server extension and open this folder.
 
-## Important
-This is not yet a production/backend integration. Existing sample content and behaviours remain as supplied. Scores, balances and tickets must be treated as demo data until connected to verified APIs. The original pages were kept separate; shared components and reusable modules should be introduced in a later controlled refactor after visual regression checks.
-=======
-# playpadi
-Project: Livescore, Whot, Prediction_Tennis_Basketball_Double-Chance_Draw-No-Bet
->>>>>>> d97f97ba5d9b95ce8dd62c61402758137a621792
+Open `index.html` in a browser, or open the repository folder in VS Code and use the Live Server extension.
+
+## Data and release boundaries
+
+The current frontend contains sample/demo content. Scores, fixtures, odds, predictions, tickets, balances and winners must not be represented as verified live information until connected to approved services.
+
+Release 1 is non-cash:
+- No deposits or withdrawals.
+- No cash wallet or real-money bet placement.
+- No odds acceptance or settlement.
+- Reward coins are not cash and are not withdrawable.
+
+SportScore remains subject to confirmation of access, attribution, commercial display, caching, storage and other usage terms before production integration.
+
+## Deployment
+
+The frontend is deployed through Vercel at https://playpadi.vercel.app. Use preview deployments for review and merge approved changes through pull requests. The project owner approves merges to `main` and production releases.
+
+## Repository note
+
+The GitHub repository slug and existing file paths may continue to contain the former project name for compatibility. This does not change the user-facing app name: **MatchBeacon**.
