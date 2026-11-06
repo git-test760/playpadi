@@ -1,14 +1,15 @@
 :root{
   /* Brand */
   --playpadi-red:#E11D2E;
+  --matchbeacon-red:var(--playpadi-red);
   --logo-red:#FF0010;
   --deep-red:#BB0914;
   --action-green:#16A34A;
   --lime-green:#4ADE80;
   --gold:#F5B027;
   /* Dark panels */
-  --navy-background:#0A1424;
-  --panel-navy:#0D1B30;
+  --navy-background:#0D1B30;
+  --panel-navy:#14243A;
   --lighter-navy:#12274A;
   --border-line:#1C3252;
   --muted-text:#8FA3BD;
