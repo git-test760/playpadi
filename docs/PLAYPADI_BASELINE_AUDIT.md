@@ -1,4 +1,4 @@
-# PLAYPADI — Repository Baseline Audit
+# MatchBeacon — Repository Baseline Audit
 
 **Audit date:** 4 November 2026  
 **Repository:** https://github.com/git-test760/playpadi  
@@ -97,3 +97,8 @@ Release 2 must be separately planned and approved after legal, licensing, compli
 ## 7. Known limitations of this audit
 
 This document records the repository files and conditions identified during the current inspection. It is not a full security audit, accessibility certification, performance benchmark, API-rights review or complete line-by-line code review. Each lane must validate its assigned area before making changes.
+
+
+## 8. Brand update after baseline
+
+The project has since been rebranded as **MatchBeacon**. The approved primary dark brand colour is `#0d1b30`. This baseline audit remains a historical record of the pre-rebrand starting point; it is not evidence that the current brand assets or all work branches have been updated.
