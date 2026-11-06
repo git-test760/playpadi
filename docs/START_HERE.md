@@ -3,11 +3,11 @@
 This pack contains the initial team structure and shared rules for the MatchBeacon build.
 
 ## Files
-- `MatchBeacon_AI_TEAM.md` — responsibilities for the first four AI accounts and expandable specialist roles.
-- `MatchBeacon_DEVELOPMENT_CONTRACT.md` — shared GitHub, branch, code, API, testing and release rules.
+- `PLAYPADI_AI_TEAM.md` — responsibilities for the first four AI accounts and expandable specialist roles.
+- `PLAYPADI_DEVELOPMENT_CONTRACT.md` — shared GitHub, branch, code, API, testing and release rules.
 
 ## Immediate setup order
-1. Create one private GitHub repository named `matchbeacon`.
+1. Create one private GitHub repository named `playpadi`.
 2. Upload the current frontend source and the approved product documents.
 3. Add these two Markdown files under `docs/`.
 4. Connect the repository to Vercel. Deploy the current frontend as a preview first.
