@@ -11,6 +11,8 @@ Audit and improve the existing visual system without changing the approved Match
 
 - App name: **MatchBeacon**.
 - Primary dark brand background: `#0d1b30`.
+- Shared vector logo assets: `assets/brand/logos/matchbeacon-logo.svg` and `assets/brand/logos/matchbeacon-icon.svg`.
+- Keep the full logo and compact icon consistent across Home, Livescore, responsive navigation and footer.
 - Use the shared brand palette as the source of truth; do not reintroduce the previous `#0A1424` background.
 - Preserve existing accent colours unless the project owner approves a separate palette change.
 
