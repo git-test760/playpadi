@@ -12,7 +12,7 @@ MatchBeacon is a sports platform frontend for football, basketball and tennis, w
 - `pages/livescore.html` — Livescore page
 - `assets/css/` — page stylesheets
 - `assets/js/` — browser-side behaviour and demo fixtures
-- `assets/brand/` — logo and colour assets
+- `assets/brand/` — MatchBeacon vector logo assets and colour palette
 - `docs/` — product, team and development guidance
 
 HTML, CSS and JavaScript are kept separate. Preserve this separation when extending the frontend.
