@@ -32,7 +32,7 @@ The branch is the work lane, not an automatic connection between a ChatGPT conve
 
 ## 4. Work rules
 
-1. Before editing, read this workflow, `MatchBeacon_AI_TEAM.md`, `MatchBeacon_DEVELOPMENT_CONTRACT.md` and the relevant product specification.
+1. Before editing, read this workflow, `PLAYPADI_AI_TEAM.md`, `PLAYPADI_DEVELOPMENT_CONTRACT.md` and the relevant product specification.
 2. Fetch the latest `main` and the assigned branch before starting. Do not overwrite newer work.
 3. Work only within the assigned file boundary. Coordinate before changing shared files.
 4. Do not rename, move, delete or replace existing pages/assets as a shortcut.
