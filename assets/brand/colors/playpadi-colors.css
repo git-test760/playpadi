@@ -1,6 +1,7 @@
 :root{
   /* Brand */
-  --playpadi-red:#E11D2E;
+  --playpadi-red:#E11D2E; /* legacy token name retained for compatibility */
+  --matchbeacon-red:var(--playpadi-red);
   --logo-red:#FF0010;
   --deep-red:#BB0914;
   --action-green:#16A34A;
