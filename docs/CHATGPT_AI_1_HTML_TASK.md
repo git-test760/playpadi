@@ -5,7 +5,13 @@
 
 ## Mission
 
-Maintain the current PLAYPADI frontend structure and build missing page shells while preserving the approved design, navigation and content hierarchy.
+Maintain the current MatchBeacon frontend structure and build missing page shells while preserving the approved design, navigation and content hierarchy.
+
+## Brand rules
+
+- The approved app name is **MatchBeacon**. Use this exact spelling and capitalization in page titles, visible copy, accessible labels and metadata.
+- Do not introduce the former app name in new user-facing content. Existing repository and asset filenames may remain unchanged until a separately approved cleanup.
+- The approved primary dark brand colour is `#0d1b30`.
 
 ## First assignment
 
