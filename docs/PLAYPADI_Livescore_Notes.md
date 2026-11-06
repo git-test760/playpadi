@@ -90,6 +90,6 @@ Rank · PlayerPoints
 
 #### Contact Us
 
-[✉ support@matchbeacon.com](#)[📞 +234 708 123 4567](#)[📍 Lagos, Nigeria](#)
+[✉ support@playpadi.com](#)[📞 +234 708 123 4567](#)[📍 Lagos, Nigeria](#)
 
 **18+**Play Responsibly. 18+ only. Gambling can be addictive.VISA●●VervePayPal
