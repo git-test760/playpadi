@@ -7,6 +7,13 @@
 
 Keep the project coherent across all work lanes, protect the approved production baseline, and prepare backend services without blocking the frontend-first investor preview.
 
+## Brand and product controls
+
+- The approved app name is **MatchBeacon** and the primary dark brand colour is `#0d1b30`.
+- Keep these values consistent across the shared task briefs, documentation, frontend metadata and API-facing product labels.
+- Do not rename the GitHub repository, domains, support email addresses or external service identifiers without separate owner approval.
+- Existing filenames containing the former app name may remain until a coordinated path migration is approved.
+
 ## First assignment
 
 1. Maintain the shared team workflow and task briefs.
