@@ -1,14 +1,14 @@
 {
   "Brand": [
     {
-      "name": "PLAYPADI red",
+      "name": "MatchBeacon red",
       "hex": "#E11D2E",
       "use": "Sport button, Register, LIVE tags, accents"
     },
     {
       "name": "Logo red",
       "hex": "#FF0010",
-      "use": "Red in the PLAYPADI logo"
+      "use": "Red accent in the MatchBeacon logo"
     },
     {
       "name": "Deep red",
