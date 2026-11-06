@@ -43,7 +43,7 @@ Won ₦532,000
 
 PLAY · COMPETE · WIN**₦2,500,000**Total Prize Pool
 
-### 🃏 PLAYPADI WHOT
+### 🃏 MatchBeacon WHOT
 
 Join the WHOT tournaments, compete with other players and win from the prize pool.
 

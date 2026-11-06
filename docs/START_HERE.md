@@ -1,6 +1,6 @@
-# PLAYPADI — START HERE
+# MatchBeacon — START HERE
 
-This pack contains the initial team structure and shared rules for the PLAYPADI build.
+This pack contains the initial team structure and shared rules for the MatchBeacon build.
 
 ## Files
 - `PLAYPADI_AI_TEAM.md` — responsibilities for the first four AI accounts and expandable specialist roles.

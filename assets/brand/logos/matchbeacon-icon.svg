@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 170" role="img" aria-labelledby="title">
+  <title id="title">MatchBeacon</title>
+  <circle cx="85" cy="85" r="73" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+  <path d="M85 15 C58 15 35 30 23 52" fill="none" stroke="#E11D2E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M85 15 C112 15 135 30 147 52" fill="none" stroke="#E11D2E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M85 42 L85 105" fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linecap="round"/>
+  <path d="M58 123 L85 105 L112 123" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="85" cy="84" r="15" fill="#E11D2E"/>
+  <path d="M48 145 H122" fill="none" stroke="#E11D2E" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,8 +1,8 @@
-# PLAYPADI DEVELOPMENT CONTRACT
+# MatchBeacon DEVELOPMENT CONTRACT
 
 **Version:** 1.0  
 **Date:** 3 November 2026  
-**Applies to:** Every AI account, developer and contributor working on PLAYPADI.
+**Applies to:** Every AI account, developer and contributor working on MatchBeacon.
 
 ## 1. Single source of truth
 
@@ -81,7 +81,7 @@ Follow the AI Responsibility Register for folder ownership.
   `{ "error": { "code": "ERROR_CODE", "message": "Readable message" } }`
 - Validate request and response data.
 - The browser must never contain provider secrets, database credentials or private API keys.
-- Provider-specific payloads must be mapped into PLAYPADI's own stable data model.
+- Provider-specific payloads must be mapped into MatchBeacon's own stable data model.
 
 ## 6. Frontend rules
 

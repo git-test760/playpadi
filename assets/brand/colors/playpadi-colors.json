@@ -1,14 +1,14 @@
 {
   "Brand": [
     {
-      "name": "PLAYPADI red",
+      "name": "MatchBeacon red",
       "hex": "#E11D2E",
       "use": "Sport button, Register, LIVE tags, accents"
     },
     {
       "name": "Logo red",
       "hex": "#FF0010",
-      "use": "Red in the PLAYPADI logo"
+      "use": "Red accent in the MatchBeacon logo"
     },
     {
       "name": "Deep red",
@@ -33,13 +33,13 @@
   ],
   "Dark panels": [
     {
-      "name": "Navy background",
-      "hex": "#0A1424",
-      "use": "Header, footer, page chrome"
+      "name": "Primary brand navy",
+      "hex": "#0D1B30",
+      "use": "Primary dark brand background, header, footer and page chrome"
     },
     {
       "name": "Panel navy",
-      "hex": "#0D1B30",
+      "hex": "#14243A",
       "use": "Cards on dark"
     },
     {
