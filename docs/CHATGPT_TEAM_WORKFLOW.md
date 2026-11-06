@@ -1,4 +1,4 @@
-# PLAYPADI — ChatGPT Team Workflow
+# MatchBeacon — ChatGPT Team Workflow
 
 **Version:** 1.0  
 **Status:** Proposed working procedure  
@@ -12,7 +12,14 @@
 - The four work branches currently match `main`; no lane has independent commits yet.
 - Do not replace the existing project structure with the target monorepo layout without an inspected migration plan and owner approval.
 
-## 2. Four work lanes
+## 2. Approved brand
+
+- App name: **MatchBeacon** (exact spelling and capitalization).
+- Primary dark brand colour: `#0d1b30`.
+- Preserve the existing accent palette unless the project owner approves a change.
+- Do not rename repository paths, domains, email addresses or third-party identifiers as part of a visual rebrand without separate approval.
+
+## 3. Four work lanes
 
 | Lane | Branch | Responsibility | Main file boundary |
 |---|---|---|---|
@@ -23,9 +30,9 @@
 
 The branch is the work lane, not an automatic connection between a ChatGPT conversation and GitHub. Each AI conversation must be explicitly given its branch, task brief and repository access method.
 
-## 3. Work rules
+## 4. Work rules
 
-1. Before editing, read this workflow, `PLAYPADI_AI_TEAM.md`, `PLAYPADI_DEVELOPMENT_CONTRACT.md` and the relevant product specification.
+1. Before editing, read this workflow, `MatchBeacon_AI_TEAM.md`, `MatchBeacon_DEVELOPMENT_CONTRACT.md` and the relevant product specification.
 2. Fetch the latest `main` and the assigned branch before starting. Do not overwrite newer work.
 3. Work only within the assigned file boundary. Coordinate before changing shared files.
 4. Do not rename, move, delete or replace existing pages/assets as a shortcut.
@@ -36,7 +43,7 @@ The branch is the work lane, not an automatic connection between a ChatGPT conve
 9. Do not implement Release 2 money movement or betting.
 10. Submit changes as a pull request. Do not merge to `main` without project-owner approval.
 
-## 4. Parallel work and integration
+## 5. Parallel work and integration
 
 - AI 1 can build page structure while AI 2 audits/styles existing and new pages.
 - AI 3 can extract and improve browser behaviour after agreeing element IDs/classes and markup contracts with AI 1.
@@ -44,7 +51,7 @@ The branch is the work lane, not an automatic connection between a ChatGPT conve
 - Avoid simultaneous edits to the same files. Agree interfaces first; use small pull requests.
 - Integrate in small steps and test the preview after each merge.
 
-## 5. Definition of done
+## 6. Definition of done
 
 A task is ready for review when it:
 - Matches the approved product scope and assigned brief.
@@ -55,7 +62,7 @@ A task is ready for review when it:
 - Includes screenshots for visual changes.
 - Lists known issues and unfinished work honestly.
 
-## 6. Required handover
+## 7. Required handover
 
 ```text
 TASK:
@@ -71,6 +78,6 @@ DEPENDENCIES / NEXT OWNER:
 PULL REQUEST:
 ```
 
-## 7. Release boundary
+## 8. Release boundary
 
 Release 1 is non-cash. No deposits, withdrawals, cash wallet, bet placement, odds acceptance or settlement. Reward coins are not cash and are not withdrawable. Release 2 requires a separate approved plan and legal, licensing, payment, data-rights and compliance gates.
